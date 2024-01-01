@@ -1,2 +1,5 @@
-# besoin
-Besoin de l'application : Carte d'empathie, Idéation, Définir le problème
+# Besoin
+
+- Carte d'empathies
+- Idéation
+- Définition de problème
