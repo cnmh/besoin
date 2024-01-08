@@ -1,5 +1,4 @@
-# Nom de la tâche
- - Empathie
+# Empathie
 ## Travail à faire 
 
 - Création des slides des cartes d'empathie
@@ -7,19 +6,21 @@
 ## Liste des livrables 
 
  - Fichier Markdown (Readme.md)
- - Diapositives Google d'empathie
+   - chemain
+ - Google slide : Réalisation-besoin
+   - cheman
 
 ## Liste des PullRequests
 
-- Création de fichier readme.md
-- close 
+- Création de fichier MarkDown de description de la tache
+- Création des slides d'empathie closes #1
 
 ## Critères de validation
 - Création d'un dossier qui porte le nom de la tâche
 - Création d'un document Readme.md dans ce  dossier avec le contenue suivant:
     - Titre = Nom de la tâche
     - Travail à faire
-      - Liste des livrables 
+    - Liste des livrables 
     - Critères de validation
     - Validateur 
     - Liens vers les livrables
@@ -28,3 +29,5 @@
 - Analyse :  Yasmine Daifane
 - 
 ## Liens vers les livrables
+
+- [des slide d'empathy](https://docs.google.com/presentation/d/1WkibTkxVvAtEwSUtbnktpjZTRztYOJby6Cckc1bsjlg/edit?usp=sharing)
