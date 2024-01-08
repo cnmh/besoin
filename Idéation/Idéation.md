@@ -1,7 +1,7 @@
 # Idéation
 
 ## Travail à faire 
-trouver une solution digitale adaptée au problème de prototype. Il cible les compétences que nous développons
+Creation de slide pour idéation
 
 ## Liste des livrables 
 - Readme
