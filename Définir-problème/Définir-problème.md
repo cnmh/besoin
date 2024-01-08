@@ -3,7 +3,7 @@
 
 ## Travail à faire 
 
-définir le probleme de prototype
+Faire une présentation pour définir le problème
 
 
 ## Livrables 
