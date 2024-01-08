@@ -4,10 +4,10 @@
 Creation des slides pour idéation
 
 ## Liste des livrables 
- - Fichier Markdown (Readme.md)
-    - [github/cnmh/besion/Idéation](https://github.com/cnmh/besoin/blob/develop/Id%C3%A9ation/Id%C3%A9ation.md) 
+ - Fichier Markdown (Idéation.md)
+    - [github/cnmh/besion/Idéation](https://github.com/cnmh/besoin/blob/feature-ideation-imrane_sarsri-v1/Id%C3%A9ation/Id%C3%A9ation.md) 
  - Diapositives Google Réalisation Idéation
-   - [google drive/solicoders_2024/projet_CNMH/1.Besoin](https://docs.google.com/presentation/d/1_Wn0GhI7n8HYMf7YXykncFZYXF2LLXGurMjyrB4rtPo/edit?usp=sharing)
+   - [google drive/solicoders_2024/projet_CNMH/3.Idéation](https://docs.google.com/presentation/d/1_Wn0GhI7n8HYMf7YXykncFZYXF2LLXGurMjyrB4rtPo/edit?usp=sharing)
 
 ## Liste des PullRequests
 
