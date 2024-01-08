@@ -1,7 +1,7 @@
 # Idéation
 
 ## Travail à faire 
-Creation de slide pour idéation
+Creation des slides pour idéation
 
 ## Liste des livrables 
 - Readme
