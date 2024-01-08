@@ -5,7 +5,7 @@
 
 ## Liste des livrables 
 
- - Fichier Markdown (Readme.md)
+ - Fichier Markdown (carte-empathy.md)
    - github/cnmh/besion/Empathie
  - Google slide : Réalisation-besoin
    - google drive/solicoders_2024/projet_CNMH/1.Besoin
@@ -17,7 +17,7 @@
 
 ## Critères de validation
 - Création d'un dossier qui porte le nom de la tâche
-- Création d'un document carte-dempathie.md dans ce  dossier avec le contenue suivant:
+- Création d'un document carte-empathie.md dans ce  dossier avec le contenue suivant:
     - Titre = Nom de la tâche
     - Travail à faire
     - Liste des livrables 
