@@ -8,7 +8,7 @@
  - Fichier Markdown (Readme.md)
    - github/cnmh/besion/Empathie
  - Google slide : Réalisation-besoin
-   - google Slide/solicoders_2024/projet_CNMH/1.Besoin
+   - google drive/solicoders_2024/projet_CNMH/1.Besoin
 
 ## Liste des PullRequests
 
