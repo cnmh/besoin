@@ -2,7 +2,7 @@
  - Empathie
 ## Travail à faire 
 
-- Réalisation des cartes d'empathie
+- Création des slides des cartes d'empathie
 
 ## Liste des livrables 
 
