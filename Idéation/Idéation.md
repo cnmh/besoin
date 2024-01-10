@@ -11,7 +11,7 @@ Creation des slides pour idéation
 
 ## Liste des PullRequests
 
-- Création de fichier MarkDown de description de la tache
+- Création de fichier MarkDown de description de la tache #3
 - Création des slides d'Idéation closes #3
 
 ## Critères de validation
