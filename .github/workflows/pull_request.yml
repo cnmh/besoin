@@ -14,7 +14,7 @@ jobs:
         if: github.event =='pull_request' && github.event.action == 'opened'
         with:
           project: TeamPlanning
-          column: En validation
+          column: En cours
           repo-token: ${{ secrets.PROJECT_TOKEN }}
 
   pull_request_closed:
