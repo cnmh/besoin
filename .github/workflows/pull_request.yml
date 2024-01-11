@@ -3,9 +3,6 @@ name: Pull request workflow
 on:
   pull_request:
     types: [closed, opened]
-  pull_request_review:
-    types: [edited, dismissed]
-
 jobs:
   pull_request_opened:
     runs-on: ubuntu-latest
@@ -15,34 +12,4 @@ jobs:
         with:
           project: TeamPlanning
           column: En cours
-          repo-token: ${{ secrets.PROJECT_TOKEN }}
-
-  pull_request_closed:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: alex-page/github-project-automation-plus@v0.8.1
-        if: github.event =='pull_request' && github.event.action == 'closed'
-        with:
-          project: TeamPlanning
-          column: Done
-          repo-token: ${{ secrets.PROJECT_TOKEN }}
-
-  pull_request_review_dismissed:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: alex-page/github-project-automation-plus@v0.8.1
-        if: github.event =='pull_request_review' && github.event.action == 'dismissed'
-        with:
-          project: TeamPlanning
-          column: En cours
-          repo-token: ${{ secrets.PROJECT_TOKEN }}
-
-  pull_request_review_edited:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: alex-page/github-project-automation-plus@v0.8.1
-        if: github.event =='pull_request_review' && github.event.action == 'edited'
-        with:
-          project: TeamPlanning
-          column: En validation
           repo-token: ${{ secrets.PROJECT_TOKEN }}
