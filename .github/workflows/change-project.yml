@@ -1,15 +1,15 @@
-on:
-  issue_comment:
-    types: [created, edited]
-jobs:
-  automate-project-columns:
-    runs-on: ubuntu-latest
-    permissions: write-all
-    # permissions:
-    #   repository-projects: write
-    steps:
-      - uses: alex-page/github-project-automation-plus@7ffb872c64bd809d23563a130a0a97d01dfa8f43
-        with:
-          project: TeamPlanning
-          column: En cours
-          repo-token: ${{ secrets.GITHUB_TOKEN }}
+# on:
+#   issue_comment:
+#     types: [created, edited]
+# jobs:
+#   automate-project-columns:
+#     runs-on: ubuntu-latest
+#     permissions: write-all
+#     # permissions:
+#     #   repository-projects: write
+#     steps:
+#       - uses: alex-page/github-project-automation-plus@7ffb872c64bd809d23563a130a0a97d01dfa8f43
+#         with:
+#           project: TeamPlanning
+#           column: En cours
+#           repo-token: ${{ secrets.GITHUB_TOKEN }}
