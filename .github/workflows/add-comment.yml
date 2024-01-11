@@ -1,8 +1,6 @@
 on:
-  issues:
-    types:
-      - reopened
-      - opened
+  issue_comment:
+    types: [created, edited]
 jobs:
   label_issues:
     runs-on: ubuntu-latest
