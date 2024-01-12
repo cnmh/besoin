@@ -1,5 +1,5 @@
 # Idéation
-
+___
 ## Travail à faire 
 Creation des slides pour idéation
 
@@ -11,8 +11,8 @@ Creation des slides pour idéation
 
 ## Liste des PullRequests
 
-- Création de fichier MarkDown de description de la tache #3
-- Création des slides d'Idéation closes #3
+- Démarrage Idéation #3
+- Idéation closes #3
 
 ## Critères de validation
 
@@ -31,3 +31,5 @@ Creation des slides pour idéation
 ## Liens vers les livrables
 
 [Réalisation Idéation](https://docs.google.com/presentation/d/1_Wn0GhI7n8HYMf7YXykncFZYXF2LLXGurMjyrB4rtPo/edit?usp=sharing)
+___
+**version: 1**
