@@ -1,9 +1,7 @@
 # Définition de problème
-
+___
 ## Travail à faire 
 Creation des slides pour définir le problème.
-
-
 
 ## Liste des livrables  
 - Fichier Markdown (Définir-problème.md)  
@@ -12,13 +10,10 @@ Creation des slides pour définir le problème.
   - solicoders_2024 > Project CNMH > 1.besoin > Réalisation-Définir-problème
 
 ## Liste des PullRequests
-
-- Création de fichier markdown de description de la tache #2
-- Google slide de réalisation-Définir-problème closes #2
-
+- Démarrage Définir-problème #2
+- Définir-problème closes #2
 
 ## Critères de validation
-
 - Création d'un dossier qui porte le nom de la tâche
 - Création d'un document Définir-problème.md dans ce  dossier avec le contenue suivant:
     - Titre = Nom de la tâche
@@ -29,9 +24,9 @@ Creation des slides pour définir le problème.
     - Liens vers les livrables
 
 ## Validateur 
-
 - Yasmine Daifane 
 
 ## Liens vers les livrables
-
 [slide Définition de problème](https://docs.google.com/presentation/d/1nefxFIOmTV66BYjuoDxFsAxirmmJidXLxR8jLTpSdBM/edit?usp=sharing)
+___
+**version: 1**
