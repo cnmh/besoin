@@ -9,6 +9,9 @@
 ## Médecin général
 ![médecin générale Carte d'empathie](./images/médecin-générale.png)
 
+## d’empathie d’orthoptiste 
+![d’empathie d’orthoptiste Carte d'empathie](./images/d’empathie-d’orthoptiste.png)
+
 ## Références 
 [Carte d'empathie](https://docs.google.com/presentation/d/1WkibTkxVvAtEwSUtbnktpjZTRztYOJby6Cckc1bsjlg/edit)
 
