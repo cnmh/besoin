@@ -24,6 +24,10 @@
 ## Service de rééducation - Ergothérapeute - Alaoui Ghita
 ![Service de rééducation - Ergothérapeute Carte d'empathie](./images/Servicederééducation-Ergothérapeute.png)
 
+## Service de rééducation - Psychologue - Anas Mjadli
+![Service de rééducation - Psychologue Carte d'empathie](./images/Service-de-rééducation-Psychologue.png)
+
+
 ## Références 
 [Carte d'empathie](https://docs.google.com/presentation/d/1WkibTkxVvAtEwSUtbnktpjZTRztYOJby6Cckc1bsjlg/edit)
 
