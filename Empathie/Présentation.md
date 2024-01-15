@@ -41,5 +41,4 @@
 [Carte d'empathie](https://docs.google.com/presentation/d/1WkibTkxVvAtEwSUtbnktpjZTRztYOJby6Cckc1bsjlg/edit)
 
 ## Conclusion
-
-<!-- Image -->
+![Conclusion](./images/Conclusion.png)
