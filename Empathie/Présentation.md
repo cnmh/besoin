@@ -5,6 +5,7 @@
 ![Introduction image](./images/Introduction.jpg)
 ## Service Social
 
+![service social Carte d'empathie](./images/service-social.png)
 <!-- Carte d'empathie -->
 
 ## Médecin général
