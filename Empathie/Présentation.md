@@ -16,7 +16,13 @@
 ![Psychomotricien Carte d'empathie](./images/psychomotricien.png)
 
 ## Assistant dentaire spécialiste Interne - Tallaoui sanae
-![Psychomotricien Carte d'empathie](./images/assistant-dentaire-spécialiste-Interne.png)
+![Assistant dentaire spécialiste Interne Carte d'empathie](./images/assistant-dentaire-spécialiste-Interne.png)
+
+## Service de rééducation - Kinésithérapeute - Nassima El Ouazzani
+![Service de rééducation - Kinésithérapeute  Carte d'empathie](./images/Service-de-rééducation-Kinésithérapeute.png)
+
+## Service de rééducation - Ergothérapeute - Alaoui Ghita
+![Service de rééducation - Ergothérapeute Carte d'empathie](./images/Servicederééducation-Ergothérapeute.png)
 
 ## Références 
 [Carte d'empathie](https://docs.google.com/presentation/d/1WkibTkxVvAtEwSUtbnktpjZTRztYOJby6Cckc1bsjlg/edit)
