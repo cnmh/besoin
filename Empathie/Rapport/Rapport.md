@@ -6,8 +6,8 @@ Au sein du Centre Solidaire SoliCode  nous disposons de compétences à valider 
 
 ## Plan 
 
-- [Service-social](1.service-social.md)
-- [Service-social](1.service-social.md)
+- [Service social](1.service-social.md)
+- [Médecin générale](2.médecin-générale.md)
 - [Service-social](1.service-social.md)
 - [Service-social](1.service-social.md)
 - [Service-social](1.service-social.md)
