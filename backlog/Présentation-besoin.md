@@ -6,5 +6,5 @@ Création une présentation de besoin
 ## Liste des livrables 
  - Fichier Markdown (Présentation-besoin.md)
    - github/cnmh/besion/Présentation-besoin
- - Google slide : Réalisation-besoin
-   - google drive > solicoders_2024 > project CNMH > 1.Besoin > Présentation-besoin
+ - Google slide : 
+   - [Présentation-besoin](https://docs.google.com/presentation/d/1uVu68xGyynOTxxpH4sIZ7mnltpcXMtCa4bq9D_9bNLc/edit#slide=id.p)
