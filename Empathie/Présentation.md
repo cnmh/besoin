@@ -27,6 +27,9 @@
 ## Service de rééducation - Psychologue - Anas Mjadli
 ![Service de rééducation - Psychologue Carte d'empathie](./images/Service-de-rééducation-Psychologue.png)
 
+## Service rééducation - orthophoniste - SAMIA KABBAJ 
+![Service de rééducation - orthophoniste Carte d'empathie](./images/Service%20rééducation-orthophoniste.png)
+
 
 ## Références 
 [Carte d'empathie](https://docs.google.com/presentation/d/1WkibTkxVvAtEwSUtbnktpjZTRztYOJby6Cckc1bsjlg/edit)
