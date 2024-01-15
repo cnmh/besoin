@@ -33,6 +33,9 @@
 ## pole sport - (Yassine serhane, Karima bamoussa)
 ![pole sport](./images/pole-sport.png)
 
+## Responsable de pôle éducatif - Fouad Ichir
+![Responsable de pôle éducatif](./images/Responsable-de-pôle-éducatif.png)
+
 
 ## Références 
 [Carte d'empathie](https://docs.google.com/presentation/d/1WkibTkxVvAtEwSUtbnktpjZTRztYOJby6Cckc1bsjlg/edit)
