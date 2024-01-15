@@ -2,8 +2,7 @@
 
 ## Introduction 
 
-<!-- Image -->
-
+![Introduction image](./images/Introduction.jpg)
 ## Service Social
 
 <!-- Carte d'empathie -->
