@@ -1,12 +1,12 @@
-# Présentation-besoin
+# Présentation Besoin
 
-## Empathie
-
-### Introduction 
+## Introduction 
 
 ![Introduction image](./images/Introduction.jpg)
 ### Service Social - Khawla souan 
 ![service social Carte d'empathie](./images/service-social.png)
+
+## Empathie
 
 ### Médecin général Algamot asia
 ![médecin générale Carte d'empathie](./images/médecin-générale.png)
@@ -41,14 +41,10 @@
 ### Directrice 
 ![Directrice](./images/Directrice.png)
 
-### Références 
-[Carte d'empathie](https://docs.google.com/presentation/d/1WkibTkxVvAtEwSUtbnktpjZTRztYOJby6Cckc1bsjlg/edit)
-
 ## Définir le problème 
 ![Définir problème](./images/Définir-problème.png)
 
 ## Idéation
-
 ![Idéation](./images/Idéation.png)
 
 ## Conclusion
