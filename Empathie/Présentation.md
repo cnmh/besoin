@@ -13,7 +13,7 @@
 ![d’empathie d’orthoptiste Carte d'empathie](./images/d’empathie-d’orthoptiste.png)
 
 ## Psychomotricien - Salma LIKRAM
-![Psychomotricien Carte d'empathie](./images/psychomotricien.png)
+![Psychomotricien Carte d'empathie](./images/Psychomotricien.png)
 
 ## Assistant dentaire spécialiste Interne - Tallaoui sanae
 ![Assistant dentaire spécialiste Interne Carte d'empathie](./images/assistant-dentaire-spécialiste-Interne.png)
