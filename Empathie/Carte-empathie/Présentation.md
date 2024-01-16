@@ -36,8 +36,6 @@
 ## Responsable de pôle éducatif - Fouad Ichir
 ![Responsable de pôle éducatif](./images/Responsable-de-pôle-éducatif.png)
 
-## Directrice 
-![Directrice](./images/Directrice.png)
 
 ## Références 
 [Carte d'empathie](https://docs.google.com/presentation/d/1WkibTkxVvAtEwSUtbnktpjZTRztYOJby6Cckc1bsjlg/edit)
