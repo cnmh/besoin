@@ -2,7 +2,7 @@
 
 - Backlog
 - Empathie
-- Empathie-avec-directrice
 - Définir-problème
 - Idéation
 - Présentation-besoin 
+- Rapport-besoin 
