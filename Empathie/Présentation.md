@@ -43,4 +43,3 @@
 [Carte d'empathie](https://docs.google.com/presentation/d/1WkibTkxVvAtEwSUtbnktpjZTRztYOJby6Cckc1bsjlg/edit)
 
 ## Conclusion
-![Conclusion](./images/Conclusion.png)
