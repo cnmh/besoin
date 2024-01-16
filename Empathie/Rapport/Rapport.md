@@ -6,16 +6,16 @@ Au sein du Centre Solidaire SoliCode  nous disposons de compétences à valider 
 
 ## Table de matières
 
-- [Service social](1.service-social.md)
-- [Médecin générale](2.médecin-générale.md)
-- [D’empathie d’orthoptiste](3.d’empathie-d’orthoptiste.md)
-- [psychomotricien](4.psychomotricien.md)
-- [Aassistant dentaire spécialiste Interne](5.assistant-dentaire-spécialiste-Interne.md)
-- [Service de rééducation inésithérapeute](6.Service-de-rééducation-Kinésithérapeute.md)
-- [Service de rééducation Ergothérapeute](7.Service-de-rééducation-Ergothérapeute.md)
-- [Service de rééducation Psychologue](8.Service-de-rééducation-Psychologue.md)
-- [Service rééducation orthophoniste](9.Service-rééducation-orthophoniste.md)
-- [pole sport](10.pole-sport.md)
-- [Responsable de pôle éducatif](11.Responsable-de-pôle-éducatif.md)
-- [Directrice](12.Directrice.md)
+- [1. Service social](1.service-social.md)
+- [2. Médecin générale](2.médecin-générale.md)
+- [3. D’empathie d’orthoptiste](3.d’empathie-d’orthoptiste.md)
+- [4. psychomotricien](4.psychomotricien.md)
+- [5. Aassistant dentaire spécialiste Interne](5.assistant-dentaire-spécialiste-Interne.md)
+- [6. Service de rééducation inésithérapeute](6.Service-de-rééducation-Kinésithérapeute.md)
+- [7. Service de rééducation Ergothérapeute](7.Service-de-rééducation-Ergothérapeute.md)
+- [8. Service de rééducation Psychologue](8.Service-de-rééducation-Psychologue.md)
+- [9. Service rééducation orthophoniste](9.Service-rééducation-orthophoniste.md)
+- [10. pole sport](10.pole-sport.md)
+- [11. Responsable de pôle éducatif](11.Responsable-de-pôle-éducatif.md)
+- [12. Directrice](12.Directrice.md)
 
