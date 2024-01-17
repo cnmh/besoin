@@ -19,3 +19,5 @@ Au sein du Centre Solidaire SoliCode  nous disposons de compétences à valider 
 - [11. Responsable de pôle éducatif](11.Responsable-de-pôle-éducatif.md)
 - [12. Directrice](12.Directrice.md)
 
+## Références 
+[Carte d'empathie](https://drive.google.com/drive/folders/1W2zIMdJABUtbbmxUEyDQoJjEAcvLLOhy)
