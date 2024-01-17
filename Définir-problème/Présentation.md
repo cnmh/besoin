@@ -1,3 +1,3 @@
 # Définir le problème 
 
-![Définir problème](./images/Définir-problème.png)
+![Définir problème](../docs/images/Définir-problème//Définir-problème.png)

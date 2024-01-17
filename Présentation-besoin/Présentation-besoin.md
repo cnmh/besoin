@@ -1,7 +1,7 @@
 # Besoin
 
 ## Introduction 
-![Introduction image](./images/Introduction.jpg)
+![Introduction image](../docs/images/Carte-empathie/)
 
 ## Empathie
 [tous les cadres d'empathie](../Empathie/Carte-empathie/Présentation.md)
