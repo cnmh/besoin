@@ -4,7 +4,7 @@ body {
 } 
 img {
   width: 400px;
-  height: 200;
+  height: 200px;
 }
 article[size="A4"] {
   display: block;
