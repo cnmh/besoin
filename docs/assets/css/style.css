@@ -2,6 +2,10 @@ body {
   background: rgb(204,204,204);
   font: 12pt "Tahoma"; 
 } 
+img {
+  width: 400px;
+  height: 200;
+}
 article[size="A4"] {
   display: block;
   width: 21cm;
