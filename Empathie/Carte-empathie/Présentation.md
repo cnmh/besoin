@@ -2,7 +2,7 @@
 
 ## Introduction 
 
-![Introduction image](../../docs/images/Carte-empathie/Introduction.jpg)
+![Introduction image](../../docs/images/D'autres-images/Introduction.png)
 ## Service Social - Khawla souan 
 ![service social Carte d'empathie](../../docs/images/Carte-empathie/carte-empathie-entreiten-social.png)
 
