@@ -1,13 +1,28 @@
 # Besoin 
 
+- Référence :  Besoin 
+
+ 
+
 ## Backlog 
-- Backlog
-- Empathie
-- Définir-problème
-- Idéation
-- Présentation-besoin 
-- Rapport-besoin 
 
-## Rapport 
+Le backlog est une liste ordonées des tâches 
 
-[Rapport et présentation](https://cnmh.github.io/besoin/)
+- **chapitre** 
+- **exposé** 
+- **feature** 
+- **sous-tâche** 
+## Livrables 
+
+ 
+
+- /Backlog 
+  - Backlog 
+- /docs 
+  - Documentation 
+## Références 
+
+ 
+
+- [Autoformation](#) 
+
