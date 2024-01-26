@@ -20,7 +20,7 @@ jobs:
           fetch-depth: 2 # inclure l'history de deux commit
           submodules: true
       - name: run update-issues-from-backlog.ps1.ps1
-        # shell: pwsh
+        shell: pwsh
         run: Write-Host $env:GITHUB_REF
         env:
           GH_TOKEN: ${{ secrets.GHPROJECT_TOKEN }}
