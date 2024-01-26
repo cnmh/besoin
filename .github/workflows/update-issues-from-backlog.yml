@@ -21,7 +21,7 @@ jobs:
           submodules: true
       - name: run update-issues-from-backlog.ps1.ps1
         # shell: pwsh
-        run: echo  "$DAY_OF_WEEK"
+        run: echo  "$DAY_OF_WEEK $project_name"
         env:
           GH_TOKEN: ${{ secrets.GHPROJECT_TOKEN }}
           project_name : "cnmh"
