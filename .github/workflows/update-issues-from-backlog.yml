@@ -5,8 +5,6 @@ on:
       paths:
         - backlog/**
 permissions: write-all
-env:
-  project_name : "cnmh"
 jobs:
   create-or-update-issues-job:
     permissions: write-all
@@ -21,8 +19,7 @@ jobs:
           submodules: true
       - name: run update-issues-from-backlog.ps1.ps1
         shell: pwsh
-        run: Write-Host ${{github.repository_owner}}
-        # run: ./scripts/issues/update-issues-from-backlog.ps1 $env:project_name
+        run: ./scripts/issues/update-issues-from-backlog.ps1 ${{github.repository_owner}}
         env:
           GH_TOKEN: ${{ secrets.GHPROJECT_TOKEN }}
           
