@@ -6,7 +6,7 @@ on:
         - backlog/**
 permissions: write-all
 env:
-  DAY_OF_WEEK: Monday
+  project_name : "cnmh"
 jobs:
   create-or-update-issues-job:
     permissions: write-all
@@ -20,10 +20,10 @@ jobs:
           fetch-depth: 2 # inclure l'history de deux commit
           submodules: true
       - name: run update-issues-from-backlog.ps1.ps1
-        # shell: pwsh
-        run: echo  "$DAY_OF_WEEK $project_name"
+        shell: pwsh
+        run: ./scripts/issues/update-issues-from-backlog.ps1  $project_name
         env:
           GH_TOKEN: ${{ secrets.GHPROJECT_TOKEN }}
-          project_name : "cnmh"
+          
           # GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           
