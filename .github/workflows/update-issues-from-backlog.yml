@@ -21,7 +21,7 @@ jobs:
           submodules: true
       - name: run update-issues-from-backlog.ps1.ps1
         # shell: pwsh
-        run: Write-Host ${{project_name}} 
+        run: Write-Host $env:GITHUB_REF
         env:
           GH_TOKEN: ${{ secrets.GHPROJECT_TOKEN }}
           
