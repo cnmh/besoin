@@ -1,21 +1,21 @@
 ---
 layout: default
-order: 3
+order: 5
 ---
-
-# Empathie avec service social 
-
-## Persona
+## Empathie
+### Empathie avec service social 
+![alt text](images/carte-empathie-service-social.png)
+#### Persona
 Khawla souan
 
-## Ce qu'il dit 
+#### Ce qu'il dit 
 - a  l’accueil ( réception au visiteur de centre - repondre a leurs questions)
 - après entretien social ils l'enregistrent ou pas  selon leur condition (est ce qu'ils ont une handicapé ou pas) création de dossier social(tout les informations du patient avec N°A…) 
 - remplir bon d’orientation(date inscription,Dossier social N°A…,Nom et Prénom du bénéficiaire)
 - Gestion des rendez-vous
 - dossier ça reste en liste d’attente enregistrement
 - dossier va passer à l'infirmière
-## Faire
+#### Faire
 Affiche les information en table exel :
 - N dossier
 - Nom

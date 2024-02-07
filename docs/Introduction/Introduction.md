@@ -9,6 +9,6 @@ order: 3
 
 ## Introduction 
 
-![alt text](images/Introduction.jpg)
+![alt text]({{site.baseurl}}/Introduction/images/Introduction.jpg)
 
 <!-- new slide -->
