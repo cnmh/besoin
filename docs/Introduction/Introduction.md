@@ -1,12 +1,14 @@
 ---
 layout: default
 title: /index
-order: 1
+order: 3
 ---
 
-# lab Git
+# Besoin
 <!-- new slide -->
 
 ## Introduction 
+
+![alt text](images/Introduction.jpg)
 
 <!-- new slide -->

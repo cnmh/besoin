@@ -1,3 +1,8 @@
+---
+layout: default
+order: 3
+---
+
 # Définir le problème
 
 ![Définir problème](./images/Définir-problème.jpg)
