@@ -4,6 +4,11 @@ order: 14
 ---
 ### Empathie avec la directrice
 ![alt text]({{site.baseurl}}/Empathie-directrice/images/empathie-directrice.jpg)
+
+
+<!-- note -->
+
+
 ##### Persona : 
 Fatima Zohra Serghini
 
@@ -17,4 +22,5 @@ Fatima Zohra Serghini
 - Il lit les informations dans le document et en tire des statistiques.
 
 
+<!-- new slide -->
 

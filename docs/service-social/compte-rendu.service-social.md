@@ -3,8 +3,14 @@ layout: default
 order: 5
 ---
 ## Empathie
+<!-- new slide -->
+
 ### Empathie avec service social 
 ![alt text]({{site.baseurl}}/service-social/images/carte-empathie-service-social.png)
+
+<!-- note -->
+
+
 #### Persona
 Khawla souan
 
@@ -34,3 +40,5 @@ Affiche les information en table exel :
 - Sans
 - Date enregistrement
 - Date entrée
+
+<!-- new slide -->
