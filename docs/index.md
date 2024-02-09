@@ -1,13 +1,17 @@
 ---
-layout : default
+layout: default
 slug: /index
-order : 1
+order: 2
 ---
 
+ <!--  -->
+
+
  
-{%- assign chapitres = site.pages | sort: "order"  -%}
- 
-{% for chapitre in chapitres %}
-- [{{ chapitre.name }}]({{site.baseurl}}/{{ chapitre.url }})
-{% endfor %}  
- 
+## livrable
+
+### Rapport 
+[Rapport.html](http://cnmh.github.io/besoin/rapport.html)
+
+### Présentation 
+[Présentation](http://cnmh.github.io/besoin/presentation.html)
