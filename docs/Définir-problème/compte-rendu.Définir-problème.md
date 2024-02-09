@@ -1,8 +1,4 @@
----
-layout: default
-title: Empathie
-order: 8
----
+
 
 
 # Définir le problème
