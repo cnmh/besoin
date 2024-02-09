@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Empathie
+
 order: 5
 ---
 

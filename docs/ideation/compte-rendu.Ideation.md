@@ -1,4 +1,8 @@
+---
+layout: default
 
+order: 7
+---
 ## Idéation
 
 
