@@ -1,7 +1,4 @@
----
-layout: default
-order: 14
----
+
 ### Empathie avec la directrice
 ![alt text]({{site.baseurl}}/Empathie-directrice/images/empathie-directrice.jpg)
 ##### Persona : 

@@ -18,3 +18,8 @@ Le backlog est une liste ordonées des tâches
   - [4.Présentation-besoin.md](./Backlog/feature/4.Présentation-besoin.md) 
   - [45.Rapport-besoin.md](./Backlog/feature/45.Rapport-besoin.md) 
 - **sous-tâche** 
+
+# ajouter le lien de rapport et presentation
+
+[Rapport](https://cnmh.github.io/besoin/rapport)
+[Presentation](https://cnmh.github.io/besoin/presentation)

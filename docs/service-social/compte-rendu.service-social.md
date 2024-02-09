@@ -1,7 +1,4 @@
----
-layout: default
-order: 5
----
+
 ## Empathie
 ### Empathie avec service social 
 ![alt text]({{site.baseurl}}/service-social/images/carte-empathie-service-social.png)
