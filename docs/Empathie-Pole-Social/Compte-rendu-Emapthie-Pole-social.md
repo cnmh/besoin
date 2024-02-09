@@ -1,5 +1,5 @@
 
-## Carte d'empathie
-
+## Empathie
 ### Empathie avec service social 
-![alt text](/docs/Empathie-Pole-Social/images/carte-empathie-service-social.png)
+![alt text]({{site.baseurl}}Empathie-Pole-Social/images/carte-empathie-service-social.png)
+
