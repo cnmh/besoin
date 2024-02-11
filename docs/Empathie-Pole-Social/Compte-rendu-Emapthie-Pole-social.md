@@ -1,6 +1,6 @@
 ---
 layout: default
-title: structure-des-dossciers
+title: Empathie
 order: 5
 ---
 ## Carte d'empathie
