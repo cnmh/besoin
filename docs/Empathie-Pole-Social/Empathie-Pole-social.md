@@ -36,4 +36,3 @@ Affiche les information en table exel :
 - Date enregistrement
 - Date entrée
 
-<!-- new slide -->
