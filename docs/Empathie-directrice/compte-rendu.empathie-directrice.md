@@ -1,7 +1,12 @@
+---
+layout: default
+title: Empathie avec la directrice
+order: 5
+---
 
-### Empathie avec la directrice
+## Empathie avec la directrice
 ![alt text]({{site.baseurl}}/Empathie-directrice/images/empathie-directrice.jpg)
-##### Persona : 
+### Persona : 
 Fatima Zohra Serghini
 
 #### Ce qu'il dit : 
@@ -13,5 +18,5 @@ Fatima Zohra Serghini
 - Il consulte le document papier du service social.
 - Il lit les informations dans le document et en tire des statistiques.
 
-
+<!-- new slide -->
 
