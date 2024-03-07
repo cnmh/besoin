@@ -1,17 +1,14 @@
 ---
 layout: default
-slug: /index
-order: 2
+order: 1
 ---
 
- <!--  -->
-
+{% assign pages = site.pages | sort: "order" %}
+{% for page in pages %}
+ {% if page.chapitre %}
+    {{- page.content | markdownify -}}
+  {% endif %}
+{% endfor %}
 
  
-## livrable
-
-### Rapport 
-[Rapport.html](http://cnmh.github.io/besoin/rapport.html)
-
-### Présentation 
-[Présentation](http://cnmh.github.io/besoin/presentation.html)
+ 
