@@ -1,15 +1,17 @@
 ---
-layout : default
+layout: default
 slug: /index
-order : 1
+order: 2
 ---
 
-<div class="book">
-{%- assign chapitres = site.pages | sort: "order"  -%}
-{% for chapitre in chapitres %}
-<article size="A4">
-    {{ chapitre.content }}
-</article>
-{% endfor %}  
-</div>
+ <!--  -->
 
+
+ 
+## livrable
+
+### Rapport 
+[Rapport.html](http://cnmh.github.io/besoin/rapport.html)
+
+### Présentation 
+[Présentation](http://cnmh.github.io/besoin/presentation.html)
