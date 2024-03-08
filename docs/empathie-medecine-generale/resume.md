@@ -8,7 +8,7 @@ order: 3
 <!-- new slide -->
 ## Introduction 
 
-![Exposé constructeur](./empathie-medecine-generale/images/flat-nurse-with-patient_23-2148158495.avif){:width="500px" }*Figure: Introduction*
+![Empathie avec infirmière de médecine général](./empathie-assistant-dentaire/images/guerir-procedure-specialisee-guerir-patient.jpg){:width="500px" }*Figure: Introduction*
 
 <!-- note -->
 
