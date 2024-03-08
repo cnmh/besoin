@@ -11,6 +11,7 @@ order: 3
 ![empathie assistant dentair](/empathie-assistant-dentaire/images/guerir-procedure-specialisee-guerir-patient.jpg){:width="500px" }*Figure: Introduction*
 
 
+
 <!-- new slide -->
 
 ## Livrable 

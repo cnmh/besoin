@@ -1,6 +1,6 @@
 ---
 layout: default
-exposé : empathie-assistant-dentaire
+expose : empathie-assistant-dentaire
 order: 7
 ---
 
