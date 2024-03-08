@@ -23,6 +23,7 @@ Une séance d’empathie a été réalisée avec Algamot Assia, Infirmière de m
 
 ### Lien de Rapport
 - [Empathie medecine generale](/besoin/empathie-medecine-generale/rapport.html)
+  
 
 <!-- new slide -->
 
