@@ -1,3 +1,8 @@
+---
+layout: default
+expose: Empathie avec orthoptiste
+order: 4
+---
 # Empathie avec service de rééducation (Orthoptiste)
 {:class="sectionHeader"}
 ## carte d'empathie Orthoptiste 
