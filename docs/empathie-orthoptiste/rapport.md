@@ -1,10 +1,12 @@
 ---
 layout: default
+
 ---
+
 
 {% assign pages = site.pages | sort: "order" %}
 {% for page in pages %}
- {% if page.empathie and page.empathie == "empathie-psychologue" %}
+ {% if page.expose == "orthoptiste" %}
     {{- page.content | markdownify -}}
   {% endif %}
 {% endfor %}
