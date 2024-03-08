@@ -4,7 +4,6 @@ expose: Empathie-directrice
 order: 5
 ---
 
-
 # Table de matière
 - [Table de matière]()
     - [Empathie avec la directrice](#Empathie-avec-la-directrice)

@@ -10,7 +10,7 @@ order: 3
 
 ## Introduction 
 
-![empathie directrice](./images/empathie-directrice.jpg){:width="500px" }*Figure: Empathie directrice*
+![empathie directrice](./images/empathie-directrice.jpg){:width="700px" }*Figure: Empathie directrice*
 <!-- note -->
 
 Une séance de sympathie a eu lieu avec Fatima Zahraa Al-Sarghini, directrice générale du Centre.
