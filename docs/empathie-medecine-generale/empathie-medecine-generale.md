@@ -7,7 +7,7 @@ order: 4
 # Table de matière
 - [Table de matière]()
     - [Empathie avec infirmière de médecine général](#empathie-avec-infirmière-de-médecine-général)
-      - [Persona](#persona)
+      - [Entretien](#entretien)
       - [Ce qu'il dit :](#ce-quil-dit-)
       - [Ce qu’il fait :](#ce-quil-fait-)
 <!-- new slide -->
@@ -18,7 +18,7 @@ order: 4
 
 <!-- note -->
 
-### Persona
+### Entretien
 
 Algamot asia
 
