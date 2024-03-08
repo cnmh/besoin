@@ -1,7 +1,6 @@
 ---
 layout: default
 exposé : empathie assistant dentaire
-order: 7
 ---
 
 

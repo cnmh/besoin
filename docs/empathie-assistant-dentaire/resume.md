@@ -1,7 +1,7 @@
 ---
 layout: default
 chapitre: Resumer
-order: 3
+order: 7
 ---
 
 # Empathie avec assistant dentaire médecin spécialiste Interne
