@@ -7,7 +7,7 @@ order: 4
 
 
 
-<!-- new slide -->
+
 ## Empathie avec le psychologue
 {:class="sectionHeader"}
 
