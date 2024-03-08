@@ -6,10 +6,13 @@ order: 7
 
 
   
-<!-- new slide -->
+
 
 
 ### Empathie assistant dentaire 
+
+<!-- new slide -->
+
 ![alt text]({{site.baseurl}}/empathie-assistant-dentaire/images/assistant-dentaire-spécialiste-Interne.png){:width="500px" }
 *Empathie assistant dentaire*
 
