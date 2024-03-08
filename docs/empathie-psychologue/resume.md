@@ -11,4 +11,4 @@ order: 3
 Une séance d’empathie a été réalisée avec psychologue Anas Mjadli pour comprendre ses besoins et ses attentes par rapport à son travail au sein du centre CNMH.
 
 ## lien vers le rapport
-[rapport](/besoin/empathie-psychologue/rapport.md)
+[rapport](/besoin/empathie-psychologue/rapport.html)
