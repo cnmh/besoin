@@ -7,7 +7,7 @@ order: 7
 
   
 
-<!-- new slide -->
+
 
 # Empathie assistant dentaire 
 
