@@ -11,7 +11,7 @@ un séance d'empathie avec madame Imane Errahmouni
 ## Livrables
 
 ### Lien de Présentation
-- [Présentation d'empathie Orthoptiste](/besoin//empathie-orthoptiste/presentation.html)
+- [Présentation d'empathie Orthoptiste](/besoin/empathie-orthoptiste/presentation.html)
 
 ### Lien de Rapport
 - [Rapport d'empathie Orthoptiste](/besoin/empathie-orthoptiste/rapport.html)
