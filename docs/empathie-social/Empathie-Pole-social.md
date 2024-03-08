@@ -1,10 +1,14 @@
 
 
-## Empathie avec service social 
+# Empathie  service social 
+{:class="sectionHeader"}
 
+<!-- new slide -->
+
+## Carte d'empathie 
 ![Carte d'empathie]((/besoin/empathie-social/images/carte-empathie-service-social.png))
 
-
+<!-- note -->
 ### Persona
 Khawla souan
 
