@@ -8,7 +8,10 @@ expose: empathie-ergotherapeute
 
 ![Empathie Ergotherapeute](./images/carte-empathie-service-de-reeducation-Ergotherapeute-Alaoui-Ghita.png){:width="90%" }
 *Figure: Empathie Ergotherapeute*
+
 <!-- note -->
+
+Une séance d'entretien passée avec Alaoui Ghita:
 
 ## Ce qu'il fait
 
