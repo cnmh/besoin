@@ -8,7 +8,7 @@ order: 3
 <!-- new slide -->
 ## Introduction 
 
-![Exposé constructeur](./empathie-medecine-generale/images/guerir-procedure-specialisee-guerir-patient.jpg){:width="500px" }*Figure: Introduction*
+![empathie assistant dentair](/empathie-assistant-dentaire/images/guerir-procedure-specialisee-guerir-patient.jpg){:width="500px" }*Figure: Introduction*
 
 
 <!-- new slide -->
