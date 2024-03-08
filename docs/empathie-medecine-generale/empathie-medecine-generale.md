@@ -22,6 +22,7 @@ order: 4
 
 Algamot asia
 
+
 ### Ce qu'il dit : 
 - Elle dit que en tant qu'infirmière en médecine générale, elle doit accomplir plusieurs tâches,  notamment : 
 - Remplir un dossier médico-social 
