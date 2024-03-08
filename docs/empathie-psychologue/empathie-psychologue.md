@@ -5,7 +5,7 @@ order: 4
 ---
 
 # Empathie avec service de rééducation (psychologue)
-![Empathie du psychologue](/besoin/empathie-psychologue/images/carte-empathie-service-de-reeducation-Psychologue-Anas-Mjadli.png)*figure* : Carte d'empathie du psychologue Anas Mjadli
+![Empathie du psychologue](/besoin/empathie-psychologue/images/carte-empathie-service-de-reeducation-Psychologue-Anas-Mjadli.png){:width="100%" }*figure : Carte d'empathie du psychologue Anas Mjadli*
 ## Persona 
 Anas Mjadli
 
