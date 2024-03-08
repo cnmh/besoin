@@ -8,8 +8,9 @@ order: 3
 <!-- new slide -->
 ## Introduction 
 
-![Empathie avec assistant dentaire](./empathie-medecine-generale/images/flat-nurse-with-patient_23-2148158495.avif){:width="500px" }*Figure: Introduction*
+![Empathie avec assistant dentaire](empathie-assistant-dentaire/images/assistant-dentaire-spécialiste-Interne.png){:width="500px" }*Figure: Introduction*
 
+Une séance d’empathie a été réalisée avec assistant dentaire Tallaoui sanae pour comprendre ses besoins et ses attentes par rapport à son travail au sein du centre CNMH.
 
 <!-- new slide -->
 
