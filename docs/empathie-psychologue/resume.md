@@ -4,26 +4,11 @@ chapitre: Resumer
 order: 3
 ---
 
-# Exposé constructeur
-<!-- new slide -->
-## Introduction 
-![Exposé constructeur](/lab-poo/exposé-constructeur/images/introduction.jpg){:width="500px" }*Figure: Introduction*
+# Empathie avec service de rééducation (psychologue)
+## Introduction
+![Empathie du psychologue](/besoin/empathie-psychologue/images/carte-empathie-service-de-reeducation-Psychologue-Anas-Mjadli.png){:width="500px" }*figure : Carte d'empathie du psychologue Anas Mjadli*
 
-<!-- note -->
+Une séance d’empathie a été réalisée avec psychologue Anas Mjadli pour comprendre ses besoins et ses attentes par rapport à son travail au sein du centre CNMH.
 
-Le constructeur en PHP est une méthode spéciale qui est automatiquement appelée lors de l'instanciation d'une classe. Son rôle est d'initialiser les attributs de l'objet et de configurer son état initial.
-
-<!-- new slide -->
-
-## Livrable 
-
-### Lien de Présentation
-- [Présentation exposé constructeur](/lab-poo/exposé-constructeur/presentation.html)
-
-### Lien de Rapport
-- [Rapport exposé constructeur](/lab-poo/exposé-constructeur/rapport.html)
-
-
-<!-- new slide -->
-
-
+## lien vers le rapport
+[rapport](/besoin/empathie-psychologue/rapport.md)
