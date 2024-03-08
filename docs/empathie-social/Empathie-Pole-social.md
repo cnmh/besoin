@@ -9,7 +9,7 @@ order: 4
 <!-- new slide -->
 
 ## Carte d'empathie 
-![Carte d'empathie]((/besoin/empathie-social/images/carte-empathie-service-social.png))
+![Empathie social](/besoin/empathie-social/images/carte-empathie-service-social.png){:width="100%" }*figure : Carte d'empathie du service social Khawla souan*
 
 <!-- note -->
 ### Persona

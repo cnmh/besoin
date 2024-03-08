@@ -8,7 +8,7 @@ order: 4
 
 <!-- new slide -->
 ## Carte d'empathie:
-![Empathie du psychologue](/besoin/empathie-social/images/carte-empathie-service-social.png){:width="100%" }*figure : Carte d'empathie du service social Khawla souan*
+![Empathie social](/besoin/empathie-social/images/carte-empathie-service-social.png){:width="100%" }*figure : Carte d'empathie du service social Khawla souan*
 
 <!-- note -->
 
