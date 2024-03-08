@@ -26,5 +26,3 @@ Créer une application conviviale pour le centre CNMH. Cette application permett
 <!-- new slide -->
 
 
-
-
