@@ -16,7 +16,8 @@ Une séance d’empathie a été réalisée avec psychologue Anas Mjadli pour co
 ## Livrables
 
 ### lien vers le rapport
-[ Empathie avec service de rééducation ](/besoin/empathie-psychologue/rapport.html)
-[ Empathie avec service de rééducation ](/besoin/empathie-psychologue/presenation.html)
+- [ Rapport](/besoin/empathie-psychologue/rapport.html)
+### lien vers la présentation
+- [ Présentation ](/besoin/empathie-psychologue/presentation.html)
 
 <!-- new slide -->

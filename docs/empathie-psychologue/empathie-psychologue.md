@@ -3,7 +3,7 @@ layout: default
 empathie: empathie-psychologue
 order: 4
 ---
-
+<!-- note -->
 # Table des matières
 - [Table des matières](#table-des-matières)
   - [Empathie avec le psychologue](#empathie-avec-le-psychologue)
