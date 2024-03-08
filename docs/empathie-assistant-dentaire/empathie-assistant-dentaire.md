@@ -7,7 +7,7 @@ order: 7
 
   
 
-
+<!-- new slide -->
 
 ### Empathie assistant dentaire 
 
@@ -44,4 +44,4 @@ Tallaoui sanae
 
 
 
-<!-- new slide -->
+

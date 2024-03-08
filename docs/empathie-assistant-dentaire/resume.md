@@ -3,9 +3,9 @@ layout: default
 chapitre: Resumer
 order: 3
 ---
-
-# Empathie avec assistant dentaire médecin spécialiste Interne
 <!-- new slide -->
+# Empathie avec assistant dentaire médecin spécialiste Interne
+
 ## Introduction 
 
 ![empathie assistant dentair]({{site.baseurl}}/empathie-assistant-dentaire/images/guerir-procedure-specialisee-guerir-patient.jpg){:width="500px" }*Figure: Introduction*
