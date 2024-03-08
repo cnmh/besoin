@@ -1,5 +1,11 @@
+---
+layout: presentation
+order: 1
+---
 
-## Carte empathie avec assistant dentaire médecin spécialiste Interne
-
-### Empathie avec assistant dentaire médecin spécialiste Interne
-![alt text](/docs/empathie-assistant-dentaire/images/assistant-dentaire-spécialiste-Interne.png)
+{% assign pages = site.pages | sort: "order" %}
+{% for page in pages %}
+ {% if page.expose == "empathie avec assistant dentaire médecin spécialiste Interne" %}
+    {{- page.content | markdownify -}}
+  {% endif %}
+{% endfor %}

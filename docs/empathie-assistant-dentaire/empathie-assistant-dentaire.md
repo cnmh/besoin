@@ -1,6 +1,22 @@
+---
+layout: default
+exposé : empathie avec assistant dentaire médecin spécialiste Interne
+order: 
+---
 
-### Empathieassistant dentaire 
-![alt text]({{site.baseurl}}/empathie-assistant-dentaire/images/assistant-dentaire-spécialiste-Interne.png)
+# Table de matière
+- [Table de matière]()
+    - [Empathie assistant dentaire](#empathie-assistant-dentaire)
+      - [Persona](#persona)
+      - [Ce qu'il dit :](#ce-quil-dit-)
+      - [Ce qu’il fait :](#ce-quil-fait-)
+  
+<!-- new slide -->
+
+
+### Empathie assistant dentaire 
+![alt text]({{site.baseurl}}/empathie-assistant-dentaire/images/assistant-dentaire-spécialiste-Interne.png){:width="500px" }
+*Empathie assistant dentaire*
 ##### Persona : 
 Tallaoui sanae 
 
@@ -27,4 +43,4 @@ Tallaoui sanae
 
 
 
-
+<!-- new slide -->
