@@ -37,4 +37,4 @@ Fatima Zohra Serghini
 
 ## Conclusion
 
-![alt text](./images/conclusion.png){:width="700px" }*Conclusion*
+![conclusion](./images/conclusion.png){:width="700px" }*Figure: Conclusion*
