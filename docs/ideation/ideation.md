@@ -22,6 +22,9 @@ Créer une application conviviale pour le centre CNMH en utilisant Laravel, Boot
 
 - **Visualisation des statistiques en temps réel :** Des graphiques dynamiques et des tableaux de bord interactifs pour afficher les statistiques et les données en temps réel.
 
+<!-- new slide -->
+
+
 
 
 
