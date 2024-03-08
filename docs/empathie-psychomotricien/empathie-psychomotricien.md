@@ -8,7 +8,7 @@ order: 6
 
 <!-- new slide -->
 
-## Cart de empathie avec Salma LIKRAM
+## Cart de empathie
 
 ![Empathy](./images/carte-empathie-psychomotricien-Salma-LIKRAM.png){:width="50%"}_figure: Empathie avec Salma LIKRAM_
 

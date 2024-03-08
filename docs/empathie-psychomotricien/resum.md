@@ -18,8 +18,8 @@ Une séance d’empathie a été réalisée avec SALMA LIKRAM, psychomotrice de 
 
 ## Lien de Présentation
 
-[Présentation d'empathie de psychomotricie](./empathie-psychomotricien/presentation.html)
+[Présentation d'empathie de psychomotricie](/empathie-psychomotricien/presentation.html)
 
 ## Lien de Rapport
 
-[Rapport d'empathie de psychomotricie](./empathie-psychomotricien/rapport.html)
+[Rapport d'empathie de psychomotricie](/empathie-psychomotricien/rapport.html)
