@@ -16,6 +16,7 @@ Une séance d’empathie a été réalisée avec assistant dentaire Tallaoui san
 
 ## Livrable 
 
+
 ### Lien de Présentation
 - [Empathie assistant dentaire](/besoin/empathie-assistant-dentaire/presentation.html)
 
