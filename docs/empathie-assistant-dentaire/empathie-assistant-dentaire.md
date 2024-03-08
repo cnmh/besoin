@@ -8,17 +8,17 @@ order: 7
   
 
 
-
-# Empathie assistant dentaire 
+# Empathie assistant dentaire
 
 <!-- new slide -->
 
+## Carte d'empathie assistant dentaire
 ![alt text]({{site.baseurl}}/empathie-assistant-dentaire/images/assistant-dentaire-spécialiste-Interne.png){:width="500px" }
 *Empathie assistant dentaire*
 
 <!-- note -->
 
-##### Persona : 
+#### Persona :
 Tallaoui sanae  
 
 #### Ce qu'il dit : 
