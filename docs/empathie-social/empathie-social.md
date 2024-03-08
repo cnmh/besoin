@@ -3,16 +3,20 @@ layout: default
 expose: empathie-social
 order: 4
 ---
-# Empathie  service social 
-{:class="sectionHeader"}
-
+# Table des matières
+- [Table des matières](#table-des-matières)
+  - [empathie--service-social](#empathie--service-social)
+    - [Persona](#persona)
+    - [Ce qu'il dit :](#ce-quil-dit)
+    - [Ce qu'il fait :](#ce-quil-fait-)
 <!-- new slide -->
-## Carte d'empathie 
-![Empathie social](/besoin/empathie-social/images/carte-empathie-service-social.png){:width="100%" }*figure : Carte d'empathie du service social Khawla souan*
+## Carte d'empathie service social 
+![Empathie social](/besoin/empathie-social/images/carte-empathie-service-social.png){:width="80%" }*figure : Carte d'empathie du service social Khawla souan*
 
 <!-- note -->
 ### Persona
-Khawla souan
+
+- Khawla souan
 
 #### Ce qu'il dit 
 - a  l’accueil ( réception au visiteur de centre - repondre a leurs questions)
