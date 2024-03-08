@@ -1,6 +1,6 @@
 ---
 layout: default
-expose: Empathie directrice
+expose: Empathie-directrice
 order: 12
 ---
 
@@ -9,13 +9,17 @@ order: 12
 - [Table de matière]()
     - [Empathie avec la directrice](#Empathie-avec-la-directrice)
       - [Persona](#persona)
-      - [Ce qu'il dit :](#ce-quil-dit)
-      - [Ce qu’il fait :](#ce-quil-fait)
+      - [Ce qu'il dit](#ce-quil-dit)
+      - [Ce qu’il fait](#ce-quil-fait)
+    - [Conclusion](#conclusion)
 
 <!-- new slide -->
 
 ## Empathie avec la directrice 
-![alt text](./images/empathie-directrice.jpg){:width="500px" }*Empathie*
+![empathie directrice](./images/empathie-directrice.jpg){: width="700px" }
+*Figure: Empathie directrice*
+
+<!-- note -->
 
 ### Persona
 Fatima Zohra Serghini
@@ -33,4 +37,4 @@ Fatima Zohra Serghini
 
 ## Conclusion
 
-![alt text](./images/conclusion.jpg){:width="500px" }*Conclusion*
+![alt text](./images/conclusion.jpg){:width="1000px" }*Conclusion*
