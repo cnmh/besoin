@@ -7,9 +7,9 @@ order: 7
 
   
 
-<!-- new slide -->
 
-### Empathie assistant dentaire 
+
+# Empathie assistant dentaire 
 
 <!-- new slide -->
 
@@ -19,7 +19,7 @@ order: 7
 <!-- note -->
 
 ##### Persona : 
-Tallaoui sanae 
+Tallaoui sanae  
 
 #### Ce qu'il dit : 
 
