@@ -1,9 +1,8 @@
 ---
 layout: default
 expose: empathie-ergotherapeute
+order: 1
 ---
-
-<!-- new slide -->
 
 # Empathie avec Ergotherapeute
 
@@ -21,3 +20,4 @@ Une séance d'entretien passée avec Alaoui Ghita:
 - Après avoir mené ses séances, elle ajoute un bilan dans le dossier médical du patient.
 - Elle écrit également des statistiques mensuelles sur un petit papier, notamment le nombre total d'actes, le nombre total d'absences, le nombre total de cas pris en charge (PEC) et le nombre total d'orientations.
 
+<!-- new slide -->
