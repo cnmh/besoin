@@ -8,7 +8,8 @@ order: 3
 
 ## Introduction 
 
-![empathie assistant dentair]({{site.baseurl}}/empathie-assistant-dentaire/images/guerir-procedure-specialisee-guerir-patient.jpg){:width="500px" }*Figure: Introduction*
+![empathie assistant dentair]({{site.baseurl}}/empathie-assistant-dentaire/images/guerir-procedure-specialisee-guerir-patient.jpg){:width="500px" }
+*Figure: Introduction*
 
 
 

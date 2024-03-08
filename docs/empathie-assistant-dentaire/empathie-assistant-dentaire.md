@@ -9,7 +9,7 @@ order: 7
 
 <!-- new slide -->
 
-### Empathie assistant dentaire 
+# Empathie assistant dentaire 
 
 <!-- new slide -->
 
