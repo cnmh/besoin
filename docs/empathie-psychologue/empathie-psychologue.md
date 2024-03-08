@@ -4,12 +4,22 @@ empathie: empathie-psychologue
 order: 4
 ---
 
-# Empathie avec service de rééducation (psychologue)
+# Table des matières
+- [Table des matières](#table-des-matières)
+  - [Empathie avec service de rééducation (psychologue)](#empathie-avec-service-de-rééducation-psychologue)
+    - [Persona](#persona)
+    - [Ce qu'il dit :](#ce-quil-dit-)
+
+<!-- new slide -->
+## Empathie avec service de rééducation (psychologue)
 ![Empathie du psychologue](/besoin/empathie-psychologue/images/carte-empathie-service-de-reeducation-Psychologue-Anas-Mjadli.png){:width="100%" }*figure : Carte d'empathie du psychologue Anas Mjadli*
-## Persona 
+
+<!-- note -->
+
+### Persona 
 Anas Mjadli
 
-## Ce qu'il dit : 
+### Ce qu'il dit : 
 - Le psychologue est nouveau dans le centre CNMH et n'est pas encore un employé permanent.
 - La première fois qu'il travaille avec un patient, il examine son dossier médical.
 - Son rôle consiste à effectuer des séances avec les parents et les patients du centre.
@@ -17,3 +27,5 @@ Anas Mjadli
 - Il garde beaucoup de données confidentielles en raison de la nature de son travail et des sujets personnels qu'il discute avec les patients.
 - Il n'a aucun problème à gérer son travail et n'est pas encore tenu de fournir des chiffres pour les statistiques.
 - Il utilise des produits numériques tels que Google Sheets et Google Forms pour gérer son travail, même s'il n'y est pas obligé, pour des raisons d'organisation.
+
+<!-- new slide -->
