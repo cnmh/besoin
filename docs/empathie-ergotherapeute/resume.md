@@ -17,6 +17,6 @@ order: 13
 - Lien de Présentation
   - [https://github.com/cnmh/besoin/empathie-ergotherapeute/presentation.html#/](./empathie-ergotherapeute/presentation.html#/)
 - Lien de Rapport
-  - [https://github.com/cnmh/besoin/empathie-ergotherapeute/rapport.html/](./empathie-ergotherapeute/rapport.html/)
+  - [https://github.com/cnmh/besoin/empathie-ergotherapeute/rapport.html/](./empathie-ergotherapeute/rapport.html)
 
 <!-- new slide -->
