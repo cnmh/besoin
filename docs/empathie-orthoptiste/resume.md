@@ -1,11 +1,13 @@
 ---
 layout: default
-chapitre: Resumer
-order: 4
+chapitre: Empathie Orthoptiste
+order: 11
 ---
 # Empathie avec service de rééducation (Orthoptiste) 
+ {:class="sectionHeader"}
+ <!-- new slide -->
 ## carte d'empathie Orthoptiste 
-![carte d'empathie Orthoptiste](./images/carte-empathie-orthoptiste-Imane-Errahmouni.png)*carte d'empathie Orthoptiste*
+![carte d'empathie Orthoptiste](./images/carte-empathie-orthoptiste-Imane-Errahmouni.png){:width="100%"}*carte d'empathie Orthoptiste*
 un séance d'empathie avec madame Imane Errahmouni 
 
 ## Livrables
