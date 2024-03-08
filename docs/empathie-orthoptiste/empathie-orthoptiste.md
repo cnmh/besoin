@@ -6,7 +6,7 @@ expose: orthoptiste
 {:class="sectionHeader"}
 <!-- new slide -->
 ## carte d'empathie Orthoptiste 
-![carte d'empathie Orthoptiste](./images/carte-empathie-orthoptiste-Imane-Errahmouni.png){:width="90%"}*carte d'empathie Orthoptiste*
+![carte d'empathie Orthoptiste](./images/carte-empathie-orthoptiste-Imane-Errahmouni.png){:width="100%"}*carte d'empathie Orthoptiste*
 un séance d'empathie avec madame Imane Errahmouni 
 
 <!-- note -->
