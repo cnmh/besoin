@@ -1,6 +1,6 @@
 ---
 layout: default
-expose: empathie-social
+empathie: empathie-social
 order: 4
 ---
 # Empathie  service social 
@@ -8,7 +8,7 @@ order: 4
 
 <!-- new slide -->
 ## Carte d'empathie 
-![Empathie social](/besoin/empathie-social/images/carte-empathie-service-social.png){:width="700px"}*figure : Carte d'empathie du service social Khawla souan*
+![Empathie social](/besoin/empathie-social/images/carte-empathie-service-social.png){: width="700px" }*figure : Carte d'empathie du service social Khawla souan*
 
 <!-- note -->
 ### Persona
