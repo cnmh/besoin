@@ -7,6 +7,7 @@ order: 14
 
 # Définir le problème
 
+
 ![alt text](./images/Définir-problème.jpg)
 
 <!-- note -->

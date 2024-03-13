@@ -5,6 +5,8 @@ order: 14
 ---
 
 # Définir le problème
+{:class="sectionHeader"}
+
 <!-- new slide -->
 ## Introduction 
 ![Définir le problème](./images/Définir-problème.jpg){:width="500px" }*Figure: Introduction*
