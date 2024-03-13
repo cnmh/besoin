@@ -14,8 +14,12 @@ order: 4
 
 Une séance d’empathie a été réalisée avec service social Khawla souan pour comprendre ses besoins et ses attentes par rapport à son travail au sein du centre CNMH.
 
-## lien vers le rapport
+<!-- new slide -->
+## Livrable
+### lien vers le rapport
 - [rapport](/besoin/empathie-social/rapport.html)
 
-## lien vers presentation
+### lien vers presentation
 - [presentation](/besoin/empathie-social/presentation.html)
+
+<!-- new slide -->

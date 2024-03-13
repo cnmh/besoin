@@ -1,6 +1,6 @@
 ---
 layout: default
-expose: empathie-social
+empathie: empathie-social
 order: 4
 ---
 # Empathie  service social 
