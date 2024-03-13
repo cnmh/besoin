@@ -1,10 +1,11 @@
 ---
 layout: default
 chapitre: Resumer
-order: 3
+order: 5
 ---
 
 # Empathie avec la directrice 
+{:class="sectionHeader"}
 
 <!-- new slide -->
 
@@ -19,10 +20,11 @@ Une séance de sympathie a eu lieu avec Fatima Zahraa Al-Sarghini, directrice g�
 
 ## Livrable 
 
-### Lien de Présentation
-- [Présentation Empathie directrice](/besoin/Empathie-directrice/presentation.html)
 
 ### Lien de Rapport
-- [Rapport Empathie directrice](/besoin/Empathie-directrice/rapport.html)
+- [Rapport](/besoin/Empathie-directrice/rapport.html)
+
+### Lien de la Présentation
+- [Présentation](/besoin/Empathie-directrice/presentation.html)
 
 <!-- new slide -->
