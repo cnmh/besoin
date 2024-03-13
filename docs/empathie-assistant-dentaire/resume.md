@@ -1,14 +1,16 @@
 ---
 layout: default
 chapitre: Resumer
-order: 3
+order: 7
 ---
 <!-- new slide -->
 # Empathie avec assistant dentaire médecin spécialiste Interne
+{:class="sectionHeader"}
 
+<!-- new slide -->
 ## Introduction 
 
-![alt text](/besoin/empathie-assistant-dentaire/images/assistant-dentaire-spécialiste-Interne.png){:width="100%"}*Figure: Introduction*
+![alt text](./images/assistant-dentaire-spécialiste-Interne.png){:width="700px" }*Figure : Carte d'empathie de l'assistant dentaire*
 
 
 
@@ -16,12 +18,13 @@ order: 3
 
 ## Livrable 
 
-### Lien de Présentation
-- [Empathie assistant dentaire](/besoin/empathie-assistant-dentaire/presentation.html)
-
 ### Lien de Rapport
-- [Empathie assistant dentaire](/besoin/empathie-assistant-dentaire/rapport.html)
+- [Rapport](/besoin/empathie-assistant-dentaire/rapport.html)
   
+### Lien de la Présentation
+- [Présentation](/besoin/empathie-assistant-dentaire/presentation.html)
+
+
 
 <!-- new slide -->
 

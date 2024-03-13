@@ -1,14 +1,15 @@
 ---
 layout: default
-expose: Définir le problème
-order: 4
+empathie: Définir le problème
+order: 14
 ---
 
 
 
-## Définir le problème
+# Définir le problème
 
-![alt text](../definir-probleme/images/Définir-problème.jpg)
+
+![alt text](./images/Définir-problème.jpg)
 
 <!-- note -->
 

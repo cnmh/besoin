@@ -1,7 +1,7 @@
 ---
 layout: default
 chapitre: Resumer
-order: 5
+order: 15
 ---
 
 # Idéation
@@ -17,11 +17,12 @@ Créer une application conviviale pour le centre CNMH. Cette application permett
 
 ## Livrable 
 
-### Lien de Présentation
-- [Idéation](/besoin/ideation/presentation.html)
-
 ### Lien de Rapport
-- [Idéation](/besoin/ideation/rapport.html)
+- [Rapport](/besoin/ideation/rapport.html)
+
+### Lien de la Présentation
+- [Présentation](/besoin/ideation/presentation.html)
+
 
 <!-- new slide -->
 

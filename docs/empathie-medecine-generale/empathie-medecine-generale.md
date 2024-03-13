@@ -1,19 +1,17 @@
 ---
 layout: default
-expose: Empathie avec infirmière de médecine général 
-order: 4
+empathie: Empathie avec infirmière de médecine général 
+order: 6
 ---
+
 
 
 ## Empathie avec infirmière de médecine général 
 {:class="sectionHeader"}
 
 <!-- new slide -->
-
-## Carte d'empathie
-
-![alt text]({{site.baseurl}}/pole-médicale/images/médecin-générale.png){:width="100%"}*Empathie*
-
+## Carte d'empathie 
+![alt text](./images/médecin-générale.png){:width="700px" }*Figure: Empathie avec infirmière de médecine général*
 <!-- note -->
 
 ### Persona
@@ -33,8 +31,3 @@ Algamot asia
 - Nous Donne un dossier médico-socio 
 
 <!-- new slide -->
-
-## Conclusion
-
-![alt text](./images/conclusion.jpg){:width="100%"}*Conclusion*
-

@@ -1,15 +1,17 @@
 ---
 layout: default
 chapitre: Resumer
-order: 3
+order: 12
 ---
 
 # Empathie avec service de rééducation (Kinésithérapeute)
+{:class="sectionHeader"}
+
 <!-- new slide -->
 ## Introduction 
 
-![Kinésithérapeute](./images/Service-de-rééducation-Kinésithérapeute.png){:width="100%"}
-*Figure: Introduction*
+![Kinésithérapeute](./images/Service-de-rééducation-Kinésithérapeute.png){:width="700px" }
+*Figure: Carte d'empathie avec kinestherapeute Nassima El ouazzani*
 
 <!-- note -->
 
@@ -19,8 +21,11 @@ Une séance d’empathie a été réalisée avec Nassima El Ouazzani, Kinésith�
 
 ## Livrables
 
-### lien vers le rapport
-[ Empathie Kinésithérapeute ](/besoin/Empathie-kinesitherapeute/rapport.html)
+### lien de Rapport
+- [Rapport](/besoin/Empathie-kinesitherapeute/rapport.html)
+
+### lien de la Présentation
+- [Présentation](/besoin/Empathie-kinesitherapeute/presentation.html)
 
 
 <!-- new slide -->
