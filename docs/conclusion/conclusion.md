@@ -19,7 +19,6 @@ order: 17
 **Nécessité d'un système de gestion des données centralisé**
 L'analyse des besoins fonctionnels réalisée dans le cadre de la méthode 2TUP a révélé un besoin crucial au sein du centre CNMH : la mise en place d'un système de gestion des données centralisé et efficace.
 
-<!-- new slide -->
 
 
 
