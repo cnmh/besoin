@@ -6,12 +6,6 @@ order: 12
 
 
 
-# Table des matières
-- [Table des matières](#table-des-matières)
-  - [Empathie avec service de rééducation (Kinésithérapeute)](#empathie-avec-service-de-rééducation-kinésithérapeute)
-  - [Persona :](#persona-)
-  - [Ce qu'il dit :](#ce-quil-dit-)
-
 
 ## Empathie avec service de rééducation (Kinésithérapeute)
 ![Empathie Kinésithérapeute](./images/Service-de-rééducation-Kinésithérapeute.png){:width="100%" }*figure : Carte d'empathie avec kinestherapeute Nassima El ouazzani*
