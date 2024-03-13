@@ -4,11 +4,7 @@ expose: Définir le problème
 order: 4
 ---
 
-# Table de matière
-- [Table de matière]()
-    - [Définir le problème](#définir-le-problème)
-     
-<!-- new slide -->
+
 
 ## Définir le problème
 

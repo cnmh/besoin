@@ -8,7 +8,7 @@ order: 3
 <!-- new slide -->
 ## Introduction 
 
-![Exposé constructeur](./empathie-medecine-generale/images/flat-nurse-with-patient_23-2148158495.avif){:width="500px" }*Figure: Introduction*
+![Exposé constructeur](./empathie-medecine-generale/images/flat-nurse-with-patient_23-2148158495.avif){:width="100%"}*Figure: Introduction*
 
 <!-- note -->
 

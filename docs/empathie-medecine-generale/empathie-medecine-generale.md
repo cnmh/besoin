@@ -4,21 +4,19 @@ expose: Empathie avec infirmière de médecine général
 order: 4
 ---
 
-# Table de matière
-- [Table de matière]()
-    - [Empathie avec infirmière de médecine général](#empathie-avec-infirmière-de-médecine-général)
-      - [Entretien](#entretien)
-      - [Ce qu'il dit :](#ce-quil-dit-)
-      - [Ce qu’il fait :](#ce-quil-fait-)
-<!-- new slide -->
 
 ## Empathie avec infirmière de médecine général 
+{:class="sectionHeader"}
 
-![alt text]({{site.baseurl}}/pole-médicale/images/médecin-générale.png){:width="500px" }*Empathie*
+<!-- new slide -->
+
+## Carte d'empathie
+
+![alt text]({{site.baseurl}}/pole-médicale/images/médecin-générale.png){:width="100%"}*Empathie*
 
 <!-- note -->
 
-### Entretien
+### Persona
 
 Algamot asia
 
@@ -38,5 +36,5 @@ Algamot asia
 
 ## Conclusion
 
-![alt text](./images/conclusion.jpg){:width="500px" }*Conclusion*
+![alt text](./images/conclusion.jpg){:width="100%"}*Conclusion*
 

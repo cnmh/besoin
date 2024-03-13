@@ -7,7 +7,7 @@ order: 5
 # Idéation
 <!-- new slide -->
 ## Introduction 
-![Exposé constructeur](../ideation/images/depositphotos_638306314-stock-illustration-innovation-management-software-abstract-concept.jpg){:width="500px" }*Figure: Introduction*
+![Exposé constructeur](../ideation/images/depositphotos_638306314-stock-illustration-innovation-management-software-abstract-concept.jpg){:width="100%"}*Figure: Introduction*
 
 <!-- note -->
 

@@ -5,12 +5,12 @@ order: 6
 ---
 
 # Empathie psychomotricien
-
+{:class="sectionHeader"}
 <!-- new slide -->
 
 ## Cart de empathie
 
-![Empathy](./images/carte-empathie-psychomotricien-Salma-LIKRAM.png){:width="58%"}_figure: Empathie avec Salma LIKRAM_
+![Empathy](./images/carte-empathie-psychomotricien-Salma-LIKRAM.png){:width="58%"}*figure: Empathie avec Salma LIKRAM*
 
 <!-- note -->
 

@@ -5,6 +5,7 @@ order: 4
 ---
 
 # Empathie  avec l'orthophoniste
+{:class="sectionHeader"}
 
 <!-- new slide -->
 

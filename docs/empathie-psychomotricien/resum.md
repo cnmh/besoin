@@ -10,7 +10,7 @@ order: 3
 
 ## Cart de empathie
 
-![Exposé constructeur](./images/carte-empathie-psychomotricien-Salma-LIKRAM.png){:width="500px" }_Figure: Introduction_
+![Exposé constructeur](./images/carte-empathie-psychomotricien-Salma-LIKRAM.png){:width="100%"}_Figure: Introduction_
 
 <!-- note -->
 

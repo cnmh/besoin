@@ -8,7 +8,7 @@ order: 3
 <!-- new slide -->
 ## Introduction 
 
-![Kinésithérapeute](./images/Service-de-rééducation-Kinésithérapeute.png){:width="500px" }
+![Kinésithérapeute](./images/Service-de-rééducation-Kinésithérapeute.png){:width="100%"}
 *Figure: Introduction*
 
 <!-- note -->

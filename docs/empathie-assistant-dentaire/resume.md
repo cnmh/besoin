@@ -8,7 +8,7 @@ order: 3
 
 ## Introduction 
 
-![alt text](/besoin/empathie-assistant-dentaire/images/assistant-dentaire-spécialiste-Interne.png){:width="500px" }*Figure: Introduction*
+![alt text](/besoin/empathie-assistant-dentaire/images/assistant-dentaire-spécialiste-Interne.png){:width="100%"}*Figure: Introduction*
 
 
 

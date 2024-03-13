@@ -13,7 +13,7 @@ order: 7
 <!-- new slide -->
 
 ## Carte d'empathie assistant dentaire
-![alt text]({{site.baseurl}}/empathie-assistant-dentaire/images/assistant-dentaire-spécialiste-Interne.png){:width="500px" }
+![alt text]({{site.baseurl}}/empathie-assistant-dentaire/images/assistant-dentaire-spécialiste-Interne.png){:width="100%"}
 *Empathie assistant dentaire*
 
 <!-- note -->
