@@ -1,7 +1,7 @@
 ---
 layout: default
-expose: empathie-ergotherapeute
-order: 1
+empathie: empathie-ergotherapeute
+order: 13
 ---
 
 # Empathie avec Ergotherapeute
