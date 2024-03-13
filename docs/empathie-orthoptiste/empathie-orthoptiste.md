@@ -1,6 +1,8 @@
 ---
 layout: default
 empathie: orthoptiste
+order: 10
+
 ---
 # Empathie avec service de rééducation (Orthoptiste)
 {:class="sectionHeader"}
