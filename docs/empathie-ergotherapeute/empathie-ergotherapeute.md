@@ -6,8 +6,8 @@ order: 1
 
 # Empathie avec Ergotherapeute
 
-![Empathie Ergotherapeute](./images/carte-empathie-service-de-reeducation-Ergotherapeute-Alaoui-Ghita.png){:width="90%" }
-*Figure: Empathie Ergotherapeute*
+![Empathie Ergotherapeute](./images/carte-empathie-service-de-reeducation-Ergotherapeute-Alaoui-Ghita.png){:width="700px" }
+*Figure: Carte d'empathie Ergotherapeute*
 
 <!-- note -->
 
