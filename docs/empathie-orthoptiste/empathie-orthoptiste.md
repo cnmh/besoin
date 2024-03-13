@@ -8,8 +8,11 @@ order: 10
 {:class="sectionHeader"}
 
 <!-- new slide -->
-## carte d'empathie Orthoptiste 
+
+## Carte d'empathie
 ![carte d'empathie Orthoptiste](./images/carte-empathie-orthoptiste-Imane-Errahmouni.png){: width="700px" }*Figure : Carte d'empathie Orthoptiste*
+
+<!-- note -->
 
 un séance d'empathie avec madame Imane Errahmouni 
 
