@@ -15,12 +15,17 @@ order: 9
 <!-- note -->
 
 Une séance d’empathie a été réalisée avec SALMA LIKRAM, psychomotrice de service de rééducation, le 23 avril 2023.
+<!-- new slide -->
 
-## Lien de Rapport
+## Livrable
+
+### Lien de Rapport
 
 [Rapport](/besoin/empathie-psychomotricien/rapport.html)
 
-## Lien de la Présentation
+### Lien de la Présentation
 
 [Présentation](/besoin/empathie-psychomotricien/presentation.html)
+
+<!-- new slide -->
 
