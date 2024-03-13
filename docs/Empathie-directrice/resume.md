@@ -1,10 +1,11 @@
 ---
 layout: default
 chapitre: Resumer
-order: 3
+order: 5
 ---
 
 # Empathie avec la directrice 
+{:class="sectionHeader"}
 
 <!-- new slide -->
 
