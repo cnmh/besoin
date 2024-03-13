@@ -1,10 +1,11 @@
 ---
 layout: default
 chapitre: Resumer
-order: 3
+order: 12
 ---
 
 # Empathie avec service de rééducation (Kinésithérapeute)
+{:class="sectionHeader"}
 
 <!-- new slide -->
 ## Introduction 

@@ -1,6 +1,6 @@
 ---
 layout: default
-expose: empathie-kinesitherapeute
+empathie: empathie-kinesitherapeute
 order: 12
 ---
 
@@ -8,8 +8,13 @@ order: 12
 
 
 ## Empathie avec service de rééducation (Kinésithérapeute)
+{:class="sectionHeader"}
+
+<!-- new slide -->
+## Carte d'empathie 
 ![Empathie Kinésithérapeute](./images/Service-de-rééducation-Kinésithérapeute.png){:width="100%" }*figure : Carte d'empathie avec kinestherapeute Nassima El ouazzani*
 
+<!-- note -->
 
 ## Persona : 
 Nassima El Ouazzani
@@ -21,6 +26,5 @@ Nassima El Ouazzani
 - Elle a commencé à travailler sur Excel pour noter la date, le numéro de dossier, la séance de bilan, le compte rendu du bilan (fait ou en attente), le numéro de la séance de travail, le compte rendu final, le taux de réalisation des objectifs et le nom du kinésithérapeute.
 - Cependant, elle a arrêté d'utiliser Excel en raison de la demande d'activation.
 
-<!-- new slide -->
 
 
