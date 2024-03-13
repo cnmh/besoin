@@ -1,7 +1,7 @@
 ---
 layout: default
 chapitre: Resumer
-order: 10
+order: 11
 ---
 # Empathie avec service de rééducation (Orthoptiste) 
 {:class="sectionHeader"}
