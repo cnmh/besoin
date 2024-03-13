@@ -13,7 +13,7 @@ order: 8
 <!-- new slide -->
 
 ## Carte d'empathie 
-![Empathie du psychologue](./images/carte-empathie-service-de-reeducation-Psychologue-Anas-Mjadli.png){:width="700px" }*figure : Carte d'empathie du psychologue Anas Mjadli*
+![Empathie du psychologue](./images/carte-empathie-service-de-reeducation-Psychologue-Anas-Mjadli.png){: width="700px" }*figure : Carte d'empathie du psychologue Anas Mjadli*
 
 <!-- note -->
 
