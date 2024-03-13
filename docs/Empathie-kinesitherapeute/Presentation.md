@@ -8,4 +8,4 @@ order: 1
  {% if page.empathie == "empathie-kinesitherapeute" %}
     {{- page.content | markdownify -}}
   {% endif %}
-{% endfor %}
+{% endfor %} 
