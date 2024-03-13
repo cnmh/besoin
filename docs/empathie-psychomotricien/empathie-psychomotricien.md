@@ -1,16 +1,16 @@
 ---
 layout: default
-expose: empathie-psychomotricien
-order: 6
+empathie: empathie-psychomotricien
+order: 9
 ---
 
 # Empathie psychomotricien
+{:class="sectionHeader"}
 
 <!-- new slide -->
+## Carte d'empathie 
 
-## Cart de empathie
-
-![Empathy](./images/carte-empathie-psychomotricien-Salma-LIKRAM.png){:width="58%"}_figure: Empathie avec Salma LIKRAM_
+![Empathy](./images/carte-empathie-psychomotricien-Salma-LIKRAM.png){:width="700px"}*figure: Empathie avec Salma LIKRAM*
 
 <!-- note -->
 
