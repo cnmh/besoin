@@ -1,19 +1,22 @@
 ---
 layout: default
-expose: orthoptiste
+empathie: orthoptiste
 ---
 # Empathie avec service de rééducation (Orthoptiste)
 {:class="sectionHeader"}
+
 <!-- new slide -->
 ## carte d'empathie Orthoptiste 
-![carte d'empathie Orthoptiste](./images/carte-empathie-orthoptiste-Imane-Errahmouni.png){:width="100%"}*carte d'empathie Orthoptiste*
+![carte d'empathie Orthoptiste](./images/carte-empathie-orthoptiste-Imane-Errahmouni.png){: width="700px" }*Figure : Carte d'empathie Orthoptiste*
+
 un séance d'empathie avec madame Imane Errahmouni 
 
 <!-- note -->
+
 ## Persona : 
 Imane Errahmouni
 
-## Ce qu'il dit : 
+### Ce qu'il dit : 
 - nous recevons les bénéficiaires accompagnés de leur bon d’orientation suivi par le médecin généraliste.
 - à l'aide d'un tableau de temps composé de deux parties :
 - une pour les bénéficiaires en visite libre sans rendez-vous.
@@ -22,7 +25,7 @@ Imane Errahmouni
 - nous présentons une feuille dite <<BILAN ORTHOPTIQUE>>  décrivons les données et l'analyse médicale du bénéficiaire.
 - au début elle gère ce tableau sur papier  puis elle a switché vers l'outil Excel, or elle trouve des difficultés à travailler avec ce dernier
 
-## Ce qu’il fait : 
+### Ce qu’il fait : 
 - Numéro d’ordre 
 - Date
 - Numéro dossier 
@@ -41,4 +44,3 @@ Imane Errahmouni
 - OBSERVATION
 - RH
 
-<!-- new slide -->
