@@ -8,7 +8,9 @@ order: 9
 {:class="sectionHeader"}
 
 <!-- new slide -->
-## Introduction
+
+## Carte d'empathie 
+
 
 ![Exposé constructeur](./images/carte-empathie-psychomotricien-Salma-LIKRAM.png){:width="700px" }*figure: Empathie avec Salma LIKRAM*
 
