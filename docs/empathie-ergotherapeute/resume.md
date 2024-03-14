@@ -18,7 +18,6 @@ order: 13
 Une séance d'entretien passée avec l'ergotherapeute Alaoui Ghita 
 
 
-<!-- new slide -->
 
 ## Livrable
 
