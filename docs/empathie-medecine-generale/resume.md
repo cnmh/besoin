@@ -9,7 +9,7 @@ order: 6
 
 <!-- new slide -->
 
-## Introduction 
+## Carte d'empathie
 
 ![Exposé constructeur](./images/médecin-générale.png){:width="700px" }*Figure: Empathie avec infirmière de médecine général*
 
@@ -17,7 +17,6 @@ order: 6
 
 Une séance d’empathie a été réalisée avec Algamot Assia, Infirmière de médecine générale, le 18 avril 2023.
 
-<!-- new slide -->
 
 ## Livrable 
 
