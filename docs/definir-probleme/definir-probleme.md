@@ -1,18 +1,14 @@
 ---
 layout: default
-expose: Définir le problème
-order: 4
+empathie: Définir le problème
+order: 14
 ---
 
-# Table de matière
-- [Table de matière]()
-    - [Définir le problème](#définir-le-problème)
-     
-<!-- new slide -->
 
-## Définir le problème
+# Définir le problème
 
-![alt text](../definir-probleme/images/Définir-problème.jpg)
+
+![alt text](./images/Définir-problème.jpg)
 
 <!-- note -->
 

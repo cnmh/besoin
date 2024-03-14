@@ -21,5 +21,5 @@ Le backlog est une liste ordonées des tâches
 
 # ajouter le lien de rapport et presentation
 
-[Rapport](https://cnmh.github.io/besoin/rapport)
-[Presentation](https://cnmh.github.io/besoin/presentation)
+[Rapport](https://cnmh.github.io/besoin/)
+[Presentation](https://cnmh.github.io/besoin/presentation.html)

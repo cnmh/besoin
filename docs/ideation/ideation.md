@@ -1,19 +1,15 @@
 ---
 layout: default
-expose: Idéation
-order: 5
+empathie: Idéation
+order: 15
 ---
 
-# Table de matière
-- [Table de matière]()
-    - [Idéation](#idéation)
-      
-<!-- new slide -->
 
 ## Idéation
 
-![Idéation]({{site.baseurl}}/ideation/images/Idéation.png)
+![Idéation](./images/Idéation.png)
 
+<!-- note -->
 Créer une application conviviale pour le centre CNMH en utilisant Laravel, Bootstrap et AdminLTE. Cette application permettra une gestion plus efficace des données et une génération améliorée de rapports, avec une interface facile à utiliser pour les employés.
 
 - **Interface conviviale :** Une interface utilisateur intuitive et conviviale pour faciliter la navigation et l'utilisation de l'application.
