@@ -9,7 +9,7 @@ order: 13
 {:class="sectionHeader"}
 
 <!-- new slide -->
-## Introduction 
+## Carte d'empathie 
 
 ![Empathie Ergotherapeute](./images/carte-empathie-service-de-reeducation-Ergotherapeute-Alaoui-Ghita.png){:width="700px" }*Figure: Carte d'empathie Ergotherapeute*
 
