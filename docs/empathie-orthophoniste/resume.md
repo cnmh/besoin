@@ -8,7 +8,7 @@ order: 10
 {:class="sectionHeader"}
 
 <!-- new slide -->
-## Introduction 
+## Carte d'empathie
 
 ![empathie othophoniste](./empathie-orthophoniste/images/orthophoniste.png){:width='700px' }*Figure: Carte d'empathie Othophoniste*
 
