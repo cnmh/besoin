@@ -25,7 +25,7 @@ Une séance d’empathie a été réalisée avec Nassima El Ouazzani, Kinésith�
 - [Rapport](/besoin/Empathie-kinesitherapeute/rapport.html)
 
 ### lien de la Présentation
-- [Présentation](/besoin/Empathie-kinesitherapeute/presentation.html)
+- [Présentation](/besoin/Empathie-kinesitherapeute/Presentation.html)
 
 
 <!-- new slide -->
