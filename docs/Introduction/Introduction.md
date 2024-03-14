@@ -1,14 +1,17 @@
 ---
 layout: default
-title: /index
+chapitre: Introduction
 order: 3
 ---
 
-# Besoin
+
+# Introduction 
+
+![Introduction](./images/Introduction.jpg){:width="300px"}
+*Figure : Introduction*
+
+<!-- note -->
+Dans la phase de capture des besoins fonctionnels de la méthode 2TUP, nous utilisons des techniques telles que la carte d'empathie, la définition du problème et l'idéation pour identifier les besoins des utilisateurs finaux. De plus, l'utilisation d'UML, notamment le diagramme de cas d'utilisation, nous aide à clarifier et à structurer ces besoins.
+
 <!-- new slide -->
 
-## Introduction 
-
-![alt text]({{site.baseurl}}/Introduction/images/Introduction.jpg)
-
-<!-- new slide -->
