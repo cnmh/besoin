@@ -8,7 +8,7 @@ order: 12
 {:class="sectionHeader"}
 
 <!-- new slide -->
-## Introduction 
+## Carte d'empathie 
 
 ![Kinésithérapeute](./images/Service-de-rééducation-Kinésithérapeute.png){:width="700px" }
 *Figure: Carte d'empathie avec kinestherapeute Nassima El ouazzani*
