@@ -6,7 +6,7 @@ order: 1
 {% assign pages = site.pages | sort: "order" %}
 
 {% for page in pages %}
-{% if page.expose == "empathie-ergotherapeute" %}
+{% if page.empathie == "empathie-ergotherapeute" %}
 <!-- page.content | markdownify -->
 {{page.content }}
 
