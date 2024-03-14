@@ -8,7 +8,7 @@ order: 12
 {:class="sectionHeader"}
 
 <!-- new slide -->
-## Introduction 
+## Carte d'empathie 
 
 ![Kinésithérapeute](./images/Service-de-rééducation-Kinésithérapeute.png){:width="700px" }
 *Figure: Carte d'empathie avec kinestherapeute Nassima El ouazzani*
@@ -17,7 +17,6 @@ order: 12
 
 Une séance d’empathie a été réalisée avec Nassima El Ouazzani, Kinésithérapeute, le 18 avril 2023.
 
-<!-- new slide -->
 
 ## Livrables
 
@@ -25,7 +24,7 @@ Une séance d’empathie a été réalisée avec Nassima El Ouazzani, Kinésith�
 - [Rapport](/besoin/Empathie-kinesitherapeute/rapport.html)
 
 ### lien de la Présentation
-- [Présentation](/besoin/Empathie-kinesitherapeute/presentation.html)
+- [Présentation](/besoin/Empathie-kinesitherapeute/Presentation.html)
 
 
 <!-- new slide -->
