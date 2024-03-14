@@ -6,7 +6,7 @@ order: 14
 
 # Définir le problème
  
-![Définir le problème](./images/Définir-problème.jpg){:width="500px" }*Figure: Introduction*
+![Définir le problème](./images/Définir-problème.jpg){:width="500px" }*Figure: Définir le problème.*
 
 <!-- note -->
 
