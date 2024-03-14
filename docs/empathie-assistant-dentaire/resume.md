@@ -19,10 +19,10 @@ order: 7
 ## Livrable 
 
 ### Lien de Rapport
-- [Empathie assistant dentaire](/besoin/empathie-assistant-dentaire/rapport.html)
+- [Rapport](/besoin/empathie-assistant-dentaire/rapport.html)
   
-### Lien de Présentation
-- [Empathie assistant dentaire](/besoin/empathie-assistant-dentaire/presentation.html)
+### Lien de la Présentation
+- [Présentation](/besoin/empathie-assistant-dentaire/presentation.html)
 
 
 
