@@ -8,14 +8,14 @@ order: 8
 {:class="sectionHeader"}
 
 <!-- new slide -->
-## Introduction
+## Carte d'empathie 
+
 ![Empathie du psychologue](./images/carte-empathie-service-de-reeducation-Psychologue-Anas-Mjadli.png){: width="700px" }*figure : Carte d'empathie du psychologue Anas Mjadli*
 
 <!-- note -->
 
 Une séance d’empathie a été réalisée avec psychologue Anas Mjadli pour comprendre ses besoins et ses attentes par rapport à son travail au sein du centre CNMH.
 
-<!-- new slide -->
 ## Livrables
 
 ### lien de Rapport
