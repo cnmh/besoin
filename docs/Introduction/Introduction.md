@@ -4,10 +4,8 @@ chapitre: Introduction
 order: 3
 ---
 
-# Besoin
-<!-- new slide -->
 
-## Introduction 
+# Introduction 
 
 ![Introduction](./images/Introduction.jpg){:width="300px"}
 *Figure : Introduction*

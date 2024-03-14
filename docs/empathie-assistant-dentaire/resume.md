@@ -3,18 +3,18 @@ layout: default
 chapitre: Resumer
 order: 7
 ---
-<!-- new slide -->
-# Empathie avec assistant dentaire médecin spécialiste Interne
+
+# Empathie avec l'assistant dentaire 
 {:class="sectionHeader"}
 
 <!-- new slide -->
-## Introduction 
+## Carte d'empathie
 
 ![alt text](./images/assistant-dentaire-spécialiste-Interne.png){:width="700px" }*Figure : Carte d'empathie de l'assistant dentaire*
 
 
 
-<!-- new slide -->
+<!-- note -->
 
 ## Livrable 
 

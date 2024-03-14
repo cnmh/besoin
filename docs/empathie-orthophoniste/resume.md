@@ -8,7 +8,7 @@ order: 10
 {:class="sectionHeader"}
 
 <!-- new slide -->
-## Introduction 
+## Carte d'empathie
 
 ![empathie othophoniste](./empathie-orthophoniste/images/orthophoniste.png){:width='700px' }*Figure: Carte d'empathie Othophoniste*
 
@@ -16,7 +16,6 @@ order: 10
 
 Une séance d’empathie a été réalisée avec SAMIA KABBAJ, l'orthophoniste de service de rééducation, le 23 avril 2023.
 
-<!-- new slide -->
 
 ## Livrables
 
