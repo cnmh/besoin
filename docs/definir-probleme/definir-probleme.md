@@ -8,7 +8,7 @@ order: 14
 # Définir le problème
 
 
-![alt text](./images/Définir-problème.jpg)
+![alt text](./images/Définir-problème.jpg){:width="500px" }*Figure: Définir le problème.*
 
 <!-- note -->
 
