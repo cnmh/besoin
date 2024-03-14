@@ -15,7 +15,6 @@ order: 11
 
 un séance d'empathie avec madame Imane Errahmouni 
 
-<!-- new slide -->
 
 ## Livrables
 
